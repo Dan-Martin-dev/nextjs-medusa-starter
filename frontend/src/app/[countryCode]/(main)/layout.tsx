@@ -1,5 +1,4 @@
 import { Metadata } from "next"
-
 import { retrieveCart } from "@lib/data/cart"
 import { getCustomer } from "@lib/data/customer"
 import { getBaseURL } from "@lib/util/env"
